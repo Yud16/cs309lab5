@@ -41,6 +41,6 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: cs309lab5
-        path: target/cs309lab5-1.0SNAPSHOT.jar
+        path: target/cs309lab5-1.0-SNAPSHOT.jar
 
    
