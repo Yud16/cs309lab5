@@ -1,1 +1,1 @@
-Yud, Safwan, Adya(sick)
+Yud, Safwan, Adya
